@@ -1,2 +1,3 @@
 # AzureFxY
-Animals
+## Animals
+This wiki consists of only animals 
