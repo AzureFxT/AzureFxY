@@ -1,0 +1,2 @@
+# Cats are animals that tend to sleep at the daytime. But, in the nighttime, they are very active. They also get scared very easily.
+![Alt text for screen readers](https://images.squarespace-cdn.com/content/v1/607f89e638219e13eee71b1e/1684821560422-SD5V37BAG28BURTLIXUQ/michael-sum-LEpfefQf4rU-unsplash.jpg "Optional Title Text")
